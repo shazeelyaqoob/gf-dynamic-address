@@ -1,0 +1,21 @@
+ 
+.gf_da_container {
+    margin-bottom: 15px;
+}
+.gf_da_field {
+    margin-bottom: 10px;
+}
+.gf_da_field label {
+    display: block;
+    font-weight: bold;
+}
+.gf_da_repeater_item {
+    border: 1px solid #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.gf_da_add_row,
+.gf_da_remove_row {
+    padding: 5px 10px;
+    cursor: pointer;
+}

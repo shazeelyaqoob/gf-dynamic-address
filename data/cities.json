@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Los Angeles", "state_id": 1},
+    {"id": 2, "name": "San Francisco", "state_id": 1},
+    {"id": 3, "name": "Toronto", "state_id": 3}
+]

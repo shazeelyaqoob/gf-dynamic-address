@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "California", "country_id": 1},
+    {"id": 2, "name": "New York", "country_id": 1},
+    {"id": 3, "name": "Ontario", "country_id": 2}
+]
